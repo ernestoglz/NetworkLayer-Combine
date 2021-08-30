@@ -15,6 +15,19 @@ The idea was to put into practice new knowledge acquired while I was studying Co
 
 - iOS 14+
 
+## Installation
+
+### Swift Package Manager
+
+The Swift Package Manager is a tool for managing the distribution of Swift code.
+
+Once your Swift package is set up you can add the dependency using the following code:
+```swift
+dependencies: [
+    .package(url: "https://github.com/ernestoglz/NetworkLayer-Combine.git"))
+]
+```
+
 ## Notes
 
 The project is open to contributions. If you find this project and want to contribute to add more feature, please feel free to fork or create a PR to the new features you wanted to include.
