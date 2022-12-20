@@ -30,7 +30,7 @@ dependencies: [
 
 ## Notes
 
-The project is open to contributions. If you find this project and want to contribute to add more feature, please feel free to fork or create a PR to the new features you wanted to include.
+The project is open to contributions. If you find this project and want to contribute to add more features, please feel free to fork or create a PR to the new features you wanted to include.
 
 ## License
 
